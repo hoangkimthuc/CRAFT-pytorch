@@ -1,0 +1,2 @@
+#run this command before installing requirements.txt
+conda install pytorch=0.4.1 -c pytorch
